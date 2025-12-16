@@ -1,0 +1,5 @@
+{
+  "name": "job2skill",
+  "description": "Generate a personalized 30-day skill acquisition roadmap from any job description in seconds.",
+  "requestFramePermissions": []
+}
